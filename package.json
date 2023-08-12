@@ -1,0 +1,35 @@
+{
+  "name": "jobuddygpt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.1.4",
+    "@fontsource/inter": "^5.0.3",
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.8",
+    "@types/react-dom": "18.2.4",
+    "antd": "^5.6.1",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "date-fns": "^2.30.0",
+    "debug": "^4.3.4",
+    "firebase": "^9.22.2",
+    "next": "13.4.4",
+    "next-auth": "^4.22.1",
+    "postcss": "8.4.24",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "^6.12.1",
+    "react-social-login-buttons": "^3.9.1",
+    "supports-color": "^9.3.1",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.3",
+    "typewriter-effect": "^2.20.1"
+  }
+}
